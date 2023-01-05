@@ -1,0 +1,15 @@
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\bin\Debug\net6.0\CW6_1.exe
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\bin\Debug\net6.0\CW6_1.deps.json
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\bin\Debug\net6.0\CW6_1.runtimeconfig.json
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\bin\Debug\net6.0\CW6_1.dll
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\bin\Debug\net6.0\CW6_1.pdb
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.csproj.AssemblyReference.cache
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.AssemblyInfoInputs.cache
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.AssemblyInfo.cs
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.csproj.CoreCompileInputs.cache
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.dll
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\refint\CW6_1.dll
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.pdb
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\CW6_1.genruntimeconfig.cache
+D:\saeid\work\maktab sharif\Week 6\Document\CW6_1\CW6_1\obj\Debug\net6.0\ref\CW6_1.dll

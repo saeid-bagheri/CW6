@@ -1,8 +1,6 @@
-﻿
-void PrintHello()
+﻿void PrintWelcome()
 {
-    Console.WriteLine("Hello");
-    Console.WriteLine("");
+    Console.WriteLine("Welcome");
 }
 
 
